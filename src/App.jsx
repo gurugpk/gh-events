@@ -3,6 +3,7 @@ import logo from './assets/images/logo.png';
 
 // This comment does not need action to run
 // This comment 2
+// This is comment 3
 function App() {
   return (
     <>
