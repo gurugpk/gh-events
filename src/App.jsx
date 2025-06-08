@@ -2,6 +2,7 @@ import MainContent from './components/MainContent';
 import logo from './assets/images/logo.png';
 
 // This comment does not need action to run
+// This comment 2
 function App() {
   return (
     <>
