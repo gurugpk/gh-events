@@ -14,7 +14,7 @@ on:
       - dev-*
       - dev/**
     paths:
-      - '!.github/workflows/**'
+      - '.github/workflows/**'
 jobs:
   deploy:
     runs-on: ubuntu-latest
